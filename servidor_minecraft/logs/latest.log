@@ -497,3 +497,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 02:50:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Stone Age]
 [17May2025 02:51:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Set the time to 1000]
 [17May2025 02:51:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Getting an Upgrade]
+[17May2025 02:55:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Wild Crops]
+[17May2025 02:55:27.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CamiLion54[/127.146.13.248:45163] logged in with entity id 9760 at (-0.5, 75.0, -1.5)
+[17May2025 02:55:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 joined the game
+[17May2025 02:55:28.887] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3013ms or 60 ticks
+[17May2025 02:56:11.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Teleported CamiLion54 to Dr_Shenka]
+[17May2025 02:56:50.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade MoveSets]
+[17May2025 02:58:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Tiny Proud Soul]
+[17May2025 02:58:59.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Slash Blade]
+[17May2025 02:59:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Wild Crops]
+[17May2025 03:00:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Stone Age]
+[17May2025 03:01:34.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Sweet Dreams]
+[17May2025 03:01:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CamiLion54> zzzzzzzzzzzzz
+[17May2025 03:01:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Sweet Dreams]
+[17May2025 03:01:48.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dr_Shenka> zzzzzzzzzzzzzz
