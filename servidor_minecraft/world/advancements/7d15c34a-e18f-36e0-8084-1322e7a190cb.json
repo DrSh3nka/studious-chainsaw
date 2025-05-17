@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-16 21:42:44 +0000",
+      "minecraft:stony_peaks": "2025-05-17 03:15:02 +0000",
       "minecraft:river": "2025-05-17 02:38:44 +0000",
       "minecraft:jungle": "2025-05-16 21:42:00 +0000"
     },
@@ -1413,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-17 03:15:04 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
@@ -1449,6 +1456,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-05-17 03:17:53 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/strawberry_chocolate": {
     "criteria": {
       "has_strawberry": "2025-05-17 02:55:00 +0000"
@@ -1467,9 +1480,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-05-17 03:07:32 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_the_recipe": "2025-05-17 03:19:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/dark_prismarine": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-17 03:17:54 +0000"
     },
     "done": true
   },
@@ -1521,15 +1558,39 @@
     },
     "done": true
   },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-05-17 03:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-17 02:37:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-05-17 03:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-17 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-17 03:17:53 +0000"
     },
     "done": true
   },
@@ -1557,9 +1618,33 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-05-17 03:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-17 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 03:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
     },
     "done": true
   },
@@ -1593,6 +1678,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-05-17 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-17 03:17:51 +0000"
+    },
+    "done": true
+  },
   "bakery:main/find_wild_crops": {
     "criteria": {
       "lettuce": "2025-05-17 02:55:00 +0000"
@@ -1608,6 +1705,12 @@
   "refurbished_furniture:recipes/misc/constructing/frying_pan": {
     "criteria": {
       "has_leather": "2025-05-17 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_sugar": "2025-05-17 03:19:33 +0000"
     },
     "done": true
   },
@@ -1641,9 +1744,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 03:13:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-17 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-05-17 03:19:33 +0000"
     },
     "done": true
   },
@@ -1656,6 +1771,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rainforest": "2025-05-17 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spearhead_pennant": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
     },
     "done": true
   },
@@ -1683,6 +1804,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-17 03:15:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-17 02:32:51 +0000"
@@ -1704,6 +1837,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-17 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-17 03:17:51 +0000"
     },
     "done": true
   },
@@ -1752,6 +1891,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-17 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/swallowtail_pennant": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
     },
     "done": true
   },
@@ -1863,6 +2008,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-17 02:50:50 +0000"
@@ -1909,6 +2066,12 @@
   "slashblade:material/proudsoul": {
     "criteria": {
       "BrokenBlade": "2025-05-17 02:37:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/computer": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
     },
     "done": true
   },
@@ -1960,8 +2123,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-17 03:19:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-17 03:03:00 +0000",
       "scrubland": "2025-05-17 02:53:33 +0000",
       "old_growth_woodland": "2025-05-17 02:48:23 +0000",
       "volcanic_plains": "2025-05-17 02:38:54 +0000",
@@ -1978,6 +2148,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-17 02:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-17 03:17:54 +0000"
     },
     "done": true
   },
@@ -1999,6 +2175,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-17 03:19:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-05-17 02:32:44 +0000"
@@ -2008,6 +2190,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-05-17 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-17 03:19:54 +0000"
     },
     "done": true
   },
@@ -2047,6 +2235,18 @@
     },
     "done": true
   },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-05-17 03:19:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-17 02:51:46 +0000"
@@ -2071,6 +2271,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-05-17 03:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-17 02:37:04 +0000"
@@ -2089,6 +2295,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/television": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/andesite": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
@@ -2104,6 +2316,18 @@
   "mcwwindows:recipes/mangrove": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-05-17 03:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-17 03:15:04 +0000"
     },
     "done": true
   },
@@ -2140,6 +2364,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-17 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/square_pennant": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
     },
     "done": true
   },
@@ -2209,9 +2439,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-17 03:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-17 02:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-17 03:17:51 +0000"
     },
     "done": true
   },
@@ -2221,14 +2469,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 03:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-17 02:50:50 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-17 03:02:25 +0000",
+      "cooked_mutton": "2025-05-17 03:20:25 +0000",
       "melon_slice": "2025-05-17 02:37:10 +0000"
     },
     "done": false
@@ -2260,6 +2522,12 @@
   "mcwwindows:recipes/metal": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/triangle_pennant": {
+    "criteria": {
+      "has_paper": "2025-05-17 03:19:55 +0000"
     },
     "done": true
   },
