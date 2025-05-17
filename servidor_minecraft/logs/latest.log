@@ -452,3 +452,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 02:05:46.637] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [waterframes:network] rejected their client side version number
 [17May2025 02:05:46.638] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [17May2025 02:05:46.687] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bfbf81d[id=<null>,name=Dr_Shenka,properties={},legacy=false] (/127.198.172.87:35871) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:14:14.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dr_Shenka[/127.198.172.87:48557] logged in with entity id 242 at (156.78202777278574, 63.0, -54.568437322628945)
+[17May2025 02:14:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka joined the game
+[17May2025 02:15:33.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Blade MoveSets]
+[17May2025 02:16:37.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41cda59[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:42535) lost connection: Disconnected
+[17May2025 02:16:41.591] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60b5a8e3[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:46285) lost connection: Disconnected
+[17May2025 02:16:59.495] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3017ms or 60 ticks
+[17May2025 02:16:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Tiny Proud Soul]
+[17May2025 02:16:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Slash Blade]
+[17May2025 02:17:01.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Monster Hunter]
+[17May2025 02:20:24.289] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ab4255f[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:57005) lost connection: Disconnected
+[17May2025 02:21:08.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68d4979d[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:49583) lost connection: Disconnected
+[17May2025 02:22:21.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@408d61ed[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:42079) lost connection: Disconnected
+[17May2025 02:22:40.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dr_Shenka lost connection: Disconnected
+[17May2025 02:22:40.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka left the game
+[17May2025 02:22:56.182] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1335055e[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:44903) lost connection: Disconnected
+[17May2025 02:23:02.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d200d6a[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:40381) lost connection: Disconnected
+[17May2025 02:23:32.332] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a41ed35[id=<null>,name=Dr_Shenka,properties={},legacy=false] (/127.198.172.87:50683) lost connection: Disconnected
+[17May2025 02:23:47.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dr_Shenka[/127.198.172.87:43663] logged in with entity id 1822 at (159.4627388212008, 63.0, -58.86026107610937)
+[17May2025 02:23:47.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka joined the game
+[17May2025 02:28:20.537] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c33b35d[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:57413) lost connection: Disconnected
+[17May2025 02:28:24.891] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bdf9a31[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:38285) lost connection: Disconnected
+[17May2025 02:29:48.940] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cd6a623[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:58343) lost connection: Disconnected
+[17May2025 02:30:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dr_Shenka a server operator
+[17May2025 02:30:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Set the time to 1000]
