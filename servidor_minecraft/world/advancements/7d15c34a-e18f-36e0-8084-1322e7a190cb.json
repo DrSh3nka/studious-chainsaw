@@ -1390,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/incandescent_light": {
     "criteria": {
       "has_torch": "2025-05-17 02:57:56 +0000"
@@ -1432,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -1456,6 +1468,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-05-17 02:37:39 +0000"
@@ -1477,6 +1495,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -1504,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-17 02:50:50 +0000"
@@ -1513,6 +1543,18 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-05-17 02:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -1573,6 +1615,12 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -1684,9 +1732,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -1804,6 +1864,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -1828,6 +1894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -1849,6 +1921,18 @@
   "fairylights:recipes/fairylights/orb_lantern": {
     "criteria": {
       "has_iron": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -1879,6 +1963,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-05-17 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -2026,6 +2116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -2140,6 +2236,12 @@
     },
     "done": true
   },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-17 02:54:40 +0000"
@@ -2170,9 +2272,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "rainforest": "2025-05-17 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-17 03:40:29 +0000"
     },
     "done": true
   },
@@ -2206,6 +2320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -2218,9 +2338,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -2284,6 +2416,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-17 02:54:44 +0000"
@@ -2317,6 +2455,12 @@
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
     },
     "done": true
   },
@@ -2584,6 +2728,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-17 03:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -2612,6 +2762,12 @@
     "criteria": {
       "has_wood": "2025-05-17 02:49:49 +0000",
       "has_the_recipe": "2025-05-17 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -2648,6 +2804,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
     },
     "done": true
   },
@@ -2693,6 +2855,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-17 03:32:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -2714,6 +2894,12 @@
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -2794,6 +2980,7 @@
       "woodland": "2025-05-17 03:03:00 +0000",
       "scrubland": "2025-05-17 02:53:33 +0000",
       "old_growth_woodland": "2025-05-17 02:48:23 +0000",
+      "mediterranean_forest": "2025-05-17 03:34:56 +0000",
       "volcanic_plains": "2025-05-17 02:38:54 +0000",
       "rainforest": "2025-05-17 02:38:20 +0000"
     },
@@ -2865,6 +3052,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/red_nether_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -2898,6 +3091,12 @@
   "fairylights:recipes/fairylights/heart_light": {
     "criteria": {
       "has_iron": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
     },
     "done": true
   },
@@ -2946,6 +3145,12 @@
   "refurbished_furniture:recipes/misc/knife": {
     "criteria": {
       "has_leather": "2025-05-17 02:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -3048,6 +3253,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -3207,6 +3418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-17 03:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-17 02:41:37 +0000"
@@ -3237,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-05-17 03:22:35 +0000"
@@ -3261,6 +3484,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-17 03:33:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-05-17 02:37:04 +0000"
@@ -3276,6 +3505,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },
@@ -3375,6 +3610,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-17 03:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-05-17 03:23:04 +0000"
@@ -3384,6 +3631,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-17 03:17:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
     },
     "done": true
   },
@@ -3414,6 +3667,18 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-05-17 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
     },
     "done": true
   },
@@ -3449,6 +3714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-17 03:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-17 02:50:50 +0000"
@@ -3479,6 +3750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-17 03:35:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 03:22:35 +0000"
@@ -3500,6 +3777,18 @@
   "fairylights:recipes/fairylights/triangle_pennant": {
     "criteria": {
       "has_paper": "2025-05-17 03:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-17 03:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:34:27 +0000"
     },
     "done": true
   },

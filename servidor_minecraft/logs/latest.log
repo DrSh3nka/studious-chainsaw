@@ -535,3 +535,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 03:29:30.463] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 6244ms or 124 ticks
 [17May2025 03:29:30.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5082ms or 101 ticks behind
 [17May2025 03:29:41.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 was slain by Bluff
+[17May2025 03:34:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Crops of the Wild]
+[17May2025 03:34:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Teleported Dr_Shenka to CamiLion54]
+[17May2025 03:35:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Teleported Dr_Shenka to CamiLion54]
+[17May2025 03:36:56.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Amateur Archaeologist]
+[17May2025 03:37:51.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Hunt and Gather]
+[17May2025 03:38:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Amateur Archaeologist]
+[17May2025 03:40:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Isn't It Iron Pick]
+[17May2025 03:40:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Ice Bucket Challenge]
