@@ -2891,6 +2891,12 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-05-17 03:47:34 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/moon_light": {
     "criteria": {
       "has_iron": "2025-05-17 03:22:35 +0000"

@@ -5801,3 +5801,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 03:41:32.402] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [17May2025 03:42:13.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17May2025 03:42:13.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 03:44:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Teleported Dr_Shenka to CamiLion54]
+[17May2025 03:44:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dr_Shenka> z
+[17May2025 03:47:13.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 03:47:13.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 03:47:34.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Left hanging]
+[17May2025 03:47:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Teleported Dr_Shenka to CamiLion54]
+[17May2025 03:48:40.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=103, z=-1271} BlockPos{x=1065, y=101, z=-1270}
+[17May2025 03:48:40.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=103, z=-1271} BlockPos{x=1065, y=101, z=-1270}
+[17May2025 03:48:40.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1065, y=103, z=-1271} BlockPos{x=1065, y=101, z=-1270}
+[17May2025 03:51:02.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dr_Shenka lost connection: Disconnected
+[17May2025 03:51:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka left the game
+[17May2025 03:51:27.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1070, y=102, z=-1281} BlockPos{x=1070, y=102, z=-1280}
+[17May2025 03:52:13.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 03:52:13.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
