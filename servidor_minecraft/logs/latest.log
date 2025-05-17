@@ -476,3 +476,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 02:29:48.940] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cd6a623[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:58343) lost connection: Disconnected
 [17May2025 02:30:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Dr_Shenka a server operator
 [17May2025 02:30:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Set the time to 1000]
+[17May2025 02:34:25.578] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main] rejected their client side version number
+[17May2025 02:34:25.579] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17May2025 02:34:25.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c57d562[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:50083) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:34:32.524] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main] rejected their client side version number
+[17May2025 02:34:32.524] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17May2025 02:34:32.539] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b8fb339[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:42643) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:35:54.524] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main] rejected their client side version number
+[17May2025 02:35:54.525] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17May2025 02:35:54.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ab2b8ee[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:40829) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:35:58.933] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main] rejected their client side version number
+[17May2025 02:35:58.934] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17May2025 02:35:58.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14622c60[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:47459) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:36:03.436] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main] rejected their client side version number
+[17May2025 02:36:03.436] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17May2025 02:36:03.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f691aca[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:57897) lost connection: Connection closed - mismatched mod channel list
+[17May2025 02:37:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Proud Soul]
+[17May2025 02:38:55.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23d9d6f8[id=<null>,name=CamiLion54,properties={},legacy=false] (/127.146.13.248:46921) lost connection: Disconnected
+[17May2025 02:41:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Set the time to 1000]
+[17May2025 02:50:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Stone Age]
+[17May2025 02:51:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dr_Shenka: Set the time to 1000]
+[17May2025 02:51:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dr_Shenka has made the advancement [Getting an Upgrade]
