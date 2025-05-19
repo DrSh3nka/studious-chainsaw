@@ -460,3 +460,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 05:00:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Aerial Rave B-       ]
 [19May2025 05:00:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Rapid Slash-         ]
 [19May2025 05:01:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Masquerade]
+[19May2025 05:28:45.417] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3154ms or 63 ticks
+[19May2025 05:29:03.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CamiLion54 lost connection: Disconnected
+[19May2025 05:29:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 left the game
