@@ -453,3 +453,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 04:34:46.572] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3475ms or 69 ticks
 [19May2025 04:34:46.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3376ms or 67 ticks behind
 [19May2025 04:38:45.569] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3165ms or 63 ticks
+[19May2025 04:59:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Abilities -Enemy Step-           ]
+[19May2025 04:59:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Combo B-              ]
+[19May2025 04:59:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Abilities -Kick Jump-            ]
+[19May2025 04:59:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[19May2025 05:00:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[19May2025 05:00:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Rapid Slash-         ]
+[19May2025 05:01:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Masquerade]
