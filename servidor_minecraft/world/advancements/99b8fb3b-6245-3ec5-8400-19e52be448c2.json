@@ -4905,6 +4905,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-19 05:01:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_table": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 04:56:32 +0000"
@@ -4926,6 +4932,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
     "criteria": {
       "has_acacia_planks": "2025-05-19 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-05-19 05:00:25 +0000"
     },
     "done": true
   },
@@ -5025,6 +5037,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-05-19 04:59:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-05-19 04:56:32 +0000"
@@ -5034,6 +5052,12 @@
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-05-19 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-05-19 04:59:39 +0000"
     },
     "done": true
   },
@@ -5073,6 +5097,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-19 04:59:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_side_table": {
     "criteria": {
       "has_acacia_side_table": "2025-05-19 04:56:32 +0000"
@@ -5088,6 +5118,18 @@
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-05-19 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-19 05:00:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-05-19 04:59:54 +0000"
     },
     "done": true
   },

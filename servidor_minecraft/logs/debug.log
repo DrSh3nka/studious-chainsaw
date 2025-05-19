@@ -4271,3 +4271,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 05:00:00.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Aerial Rave B-       ]
 [19May2025 05:00:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Blade Arts -Rapid Slash-         ]
 [19May2025 05:01:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamiLion54 has made the advancement [Masquerade]
+[19May2025 05:03:45.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 05:03:45.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 05:08:45.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 05:08:45.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
